@@ -1,0 +1,8 @@
+{
+    "name": "DemonicPact",
+    "short": "OSRS Leagues standings for the Demonic Pact",
+    "description": "Fetches League Points from the OSRS seasonal hiscores and posts a leaderboard, on demand or on a schedule.",
+    "author": ["Benjamin"],
+    "min_bot_version": "3.5.0",
+    "tags": ["osrs", "runescape", "leagues", "hiscores"]
+}
