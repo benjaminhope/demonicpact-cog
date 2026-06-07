@@ -5,7 +5,7 @@
     "author": ["Benjamin"],
     "min_bot_version": "3.5.0",
     "requirements": [
-        "discord-ext-voice_recv @ git+https://github.com/imayhaveborkedit/discord-ext-voice-recv",
+        "git+https://github.com/imayhaveborkedit/discord-ext-voice-recv",
         "PyNaCl",
         "davey"
     ],
