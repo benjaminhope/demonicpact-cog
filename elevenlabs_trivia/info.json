@@ -5,7 +5,7 @@
     "author": ["Benjamin"],
     "min_bot_version": "3.5.0",
     "requirements": [
-        "discord-ext-voice-recv>=0.5.0",
+        "discord-ext-voice_recv>=0.5.0",
         "PyNaCl",
         "davey"
     ],
