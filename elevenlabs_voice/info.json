@@ -1,0 +1,14 @@
+{
+    "name": "ElevenLabsVoice",
+    "short": "Summon an ElevenLabs Conversational AI agent to a voice channel",
+    "description": "Joins a Discord voice channel and bridges audio bidirectionally between participants and an ElevenLabs Conversational AI agent. Use [p]elvoice summon to bring the agent in and [p]elvoice dismiss to remove it.",
+    "author": ["Benjamin"],
+    "min_bot_version": "3.5.0",
+    "requirements": [
+        "discord-ext-voice-recv>=0.5.0",
+        "PyNaCl",
+        "davey"
+    ],
+    "tags": ["voice", "elevenlabs", "ai", "chat"],
+    "end_user_data_statement": "This cog stores per-guild ElevenLabs agent ID and optional prompt overrides. It transmits voice-channel audio to the ElevenLabs Conversational AI service while a session is active; voice data is not persisted by this cog."
+}

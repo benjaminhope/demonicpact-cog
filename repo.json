@@ -1,0 +1,6 @@
+{
+    "author": ["Benjamin"],
+    "description": "Red cogs for Demonic Pact Discord server — OSRS league tracking, ElevenLabs voice agent, and more.",
+    "install_msg": "Thanks for installing! Some cogs require additional setup — check each cog's README or use [p]help.",
+    "short": "Demonic Pact cogs"
+}

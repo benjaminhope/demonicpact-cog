@@ -1,0 +1,8 @@
+{
+    "name": "MyCog",
+    "short": "My first cog",
+    "description": "Demo cog for development",
+    "author": ["YourName"],
+    "min_bot_version": "3.5.0",
+    "tags": ["demo"]
+}

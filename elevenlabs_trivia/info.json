@@ -1,0 +1,14 @@
+{
+    "name": "ElevenLabsTrivia",
+    "short": "Voice trivia run by an ElevenLabs Conversational AI agent",
+    "description": "Joins a Discord voice channel and bridges audio bidirectionally between voice-channel participants and an ElevenLabs Conversational AI agent that hosts trivia. Supports topic selection (OSRS by default).",
+    "author": ["Benjamin"],
+    "min_bot_version": "3.5.0",
+    "requirements": [
+        "discord-ext-voice-recv>=0.5.0",
+        "PyNaCl",
+        "davey"
+    ],
+    "tags": ["voice", "trivia", "elevenlabs", "ai", "osrs"],
+    "end_user_data_statement": "This cog stores per-guild ElevenLabs API key and agent ID configuration. It transmits voice-channel audio to the ElevenLabs Conversational AI service while a session is active; voice data is not persisted by this cog."
+}
